@@ -16,6 +16,7 @@
 		A0DCADFD2AB6AE72008B437F /* git_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DCADFC2AB6AE72008B437F /* git_testTests.swift */; };
 		A0DCAE072AB6AE72008B437F /* git_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DCAE062AB6AE72008B437F /* git_testUITests.swift */; };
 		A0DCAE092AB6AE72008B437F /* git_testUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DCAE082AB6AE72008B437F /* git_testUITestsLaunchTests.swift */; };
+		A0DCAE182AB6E19A008B437F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = A0DCAE172AB6E19A008B437F /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A0DCAE022AB6AE72008B437F /* git-testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "git-testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0DCAE062AB6AE72008B437F /* git_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = git_testUITests.swift; sourceTree = "<group>"; };
 		A0DCAE082AB6AE72008B437F /* git_testUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = git_testUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A0DCAE172AB6E19A008B437F /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		A0DCADD92AB6AE70008B437F = {
 			isa = PBXGroup;
 			children = (
+				A0DCAE172AB6E19A008B437F /* .gitignore */,
 				A0DCADE42AB6AE70008B437F /* git-test */,
 				A0DCADFB2AB6AE72008B437F /* git-testTests */,
 				A0DCAE052AB6AE72008B437F /* git-testUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0DCAE182AB6E19A008B437F /* .gitignore in Resources */,
 				A0DCADF22AB6AE72008B437F /* LaunchScreen.storyboard in Resources */,
 				A0DCADEF2AB6AE72008B437F /* Assets.xcassets in Resources */,
 				A0DCADED2AB6AE70008B437F /* Main.storyboard in Resources */,
